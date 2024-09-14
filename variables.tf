@@ -304,11 +304,11 @@ variable "source_range2" {
 }
 
 variable "mailgun_key"{
-  default = "0efc8714590af835c49c2dfe48e0ce14-f68a26c9-df767f84"
+  default = "******************"
 }
 
 variable "account" {
-  default = "service-759856488127@compute-system.iam.gserviceaccount.com"
+  default = "*********************"
 }
 
 variable "kms_key"{
